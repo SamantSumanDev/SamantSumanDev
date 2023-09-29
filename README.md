@@ -24,21 +24,26 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🚀 &nbsp; Hey, Innovators! Suman here, on a perpetual quest for tech brilliance!
-- 👨‍💻 &nbsp; Armed with a B.Tech in Computer Science from VIT, Vellore, I'm in the business of turning ideas into digital magic..
+- 👨‍💻 &nbsp; Armed with a B.Tech in Computer Science from VIT, Vellore, I'm in the business of turning ideas into digital magic.
 - 🌐 &nbsp; Tech Tango: Currently, I'm waltzing my way through Android App Dev, Systems Design, and the enchanting realms of Web Development. Because staying ahead in tech is my kind of adrenaline rush.
+  
 - 💡 &nbsp;Beyond the buzz of algorithms, I thrive on concocting software solutions and whipping up quick hacks. It's not just coding; it's a symphony of innovation.
-- 🎨 &nbsp;When not taming code, I'm a Graphic Design maestro. Oh, and I have a side hustle—unearthing the mysteries of Ancient Scriptures. Because why not?
+  
+- 🎨 &nbsp;When not taming code, I'm a Graphic Design maestro. Oh, and I have a side hustle—unearthing the mysteries of Ancient Scriptures. Because why not?.
+  
 - 💬 &nbsp;Open for riveting discussions, pro bono brain-picking, or a good ol' tech banter. Hit me up anytime; my brain cells are always on standby.
+  
 - ✉️ &nbsp; Got a project that needs a tech wizard? Shoot an email to suman701kumar@gmail.com. I’ll be the genie in your digital lamp.
 
 
 ### 🛠 &nbsp;Tech Stack
-
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+<img alt="Hand Coding" src="https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Hand%20coding.gif" align="right"/>
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -50,18 +55,14 @@ Here are some ideas to get you started:
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Microsoft+Excel)
 ![Google Sheets](https://img.shields.io/badge/-Sheets-05122A?style=flat&logo=Google+Sheets)&nbsp;
 ![Microsoft Powerpoint](https://img.shields.io/badge/-Powerpoint-05122A?style=flat&logo=Microsoft+PowerPoint)&nbsp;\
-![After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=Adobe+After+Effects)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/thefitcoder">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thefitcoder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thefitcoder&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/SamantSumanDev">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamantSumanDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamantSumanDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
