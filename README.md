@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img alt="Hand Coding" src="https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Hand%20coding.gif" width="300px" height="300px" align="right"/>
 
 
-![Android](https://img.shields.io/badge/-Android-05122A4?style=flat&logo=android)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A4?style=flat&logo=android&background=05122A4)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
