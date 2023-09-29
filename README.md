@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <a href="https://in.linkedin.com/in/suman-kumar-android-dev"><img src="https://img.shields.io/badge/-Sumank%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:suman701kumar@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/infom_10samant"><img src="https://img.shields.io/badge/-@infom_10samant-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/infom_10samant"><img src="https://img.shields.io/badge/-@infome_10samant-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
