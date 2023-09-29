@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🚀 &nbsp; Hey, Innovators! Suman here, on a perpetual quest for tech brilliance!
-- 👨‍💻 &nbsp; Armed with a B.Tech in Computer Science from VIT, Vellore, I'm in the business of turning ideas into digital magic.
-- 🌐 &nbsp; Tech Tango: Currently, I'm waltzing my way through Android App Dev, Systems Design, and the enchanting realms of Web Development. Because staying ahead in tech is my kind of adrenaline rush.
+- 👨‍💻 &nbsp; Armed with a BCA from DAVIET, I'm in the business of turning ideas into digital magic.
+- 🌐 &nbsp; Currently, I'm waltzing my way through Android App Dev, Systems Design, and the enchanting realms of Web Development. Because staying ahead in tech is my kind of adrenaline rush.
   
 - 💡 &nbsp;Beyond the buzz of algorithms, I thrive on concocting software solutions and whipping up quick hacks. It's not just coding; it's a symphony of innovation.
   
