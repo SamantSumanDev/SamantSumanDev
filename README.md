@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Hand Coding" src="https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Hand%20coding.gif" align="right"/>
+<img alt="Hand Coding" src="https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Hand%20coding.gif" width="300px" height="300px" align="right"/>
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
