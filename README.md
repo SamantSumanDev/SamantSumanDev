@@ -44,17 +44,17 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Microsoft+Excel)
 ![Google Sheets](https://img.shields.io/badge/-Sheets-05122A?style=flat&logo=Google+Sheets)&nbsp;
-![Microsoft Powerpoint](https://img.shields.io/badge/-Powerpoint-05122A?style=flat&logo=Microsoft+PowerPoint)&nbsp;\
+![Microsoft Powerpoint](https://img.shields.io/badge/-Powerpoint-05122A?style=flat&logo=Microsoft+PowerPoint)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -69,12 +69,10 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.google.com"><img src="https://img.shields.io/badge/-slightly.codes.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abhishekkdhall/"><img src="https://img.shields.io/badge/-Abhishek%20Dhall-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:thefitcoder@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/slightly.main"><img src="https://img.shields.io/badge/-@slightly.main-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/maakabhharosa"><img src="https://img.shields.io/badge/-@maakabhharosa-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a>
-<a href="https://www.reddit.com/user/StormZealousideal378"><img src="https://img.shields.io/badge/-My%20Reddit-ff4500?style=flat&logo=Reddit&logoColor=white"></a>
+
+<a href="https://in.linkedin.com/in/suman-kumar-android-dev"><img src="https://img.shields.io/badge/-Sumank%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:suman701kumar@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/infom_10samant"><img src="https://img.shields.io/badge/-@infom_10samant-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
