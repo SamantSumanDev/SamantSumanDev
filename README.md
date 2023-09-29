@@ -1,4 +1,5 @@
-### Hi there 👋
+![Suman kumar Banner](https://github.com/SamantSumanDev/SamantSumanDev/blob/main/Black%20Illustration%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.png)
+
 
 <!--
 **SamantSumanDev/SamantSumanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Suman kumar Banner](https://github.com/SamantSumanDev/SamantSumanDev/blob/main/Black%20Illustration%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.png)
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Suman -->
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Hand Coding" src="https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Hand%20coding.gif" width="300px" height="300px" align="right"/>
+<img alt="Hand Coding" src="https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Hand%20coding.gif" width="250px" height="250px" align="right"/>
 
 
 ![Android](https://img.shields.io/badge/-Android-05122A4?style=flat&logo=android&background=05122A4)&nbsp;
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ![Microsoft Powerpoint](https://img.shields.io/badge/-Powerpoint-05122A?style=flat&logo=Microsoft+PowerPoint)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+</br></br></br></br></br></br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
