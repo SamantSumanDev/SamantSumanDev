@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Suman kumar Banner]([https://user-images.githubusercontent.com/50311627/186257077-660fb5d0-ddd4-4b1b-bf03-480b1bcbdece.gif](https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Black%20Illustration%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.png))
+![Suman kumar Banner]((https://raw.githubusercontent.com/SamantSumanDev/SamantSumanDev/main/Black%20Illustration%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.png))
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Suman -->
